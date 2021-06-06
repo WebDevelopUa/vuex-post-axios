@@ -31,19 +31,6 @@ export default {
       this.title = this.body = ''
     }
 
-
-    // using mutation to create post to App state
-    // ...mapMutations(['createPost']),
-    // onSubmit() {
-    //   this.createPost({
-    //     title: this.title,
-    //     body: this.body,
-    //     id: Date.now()
-    //   })
-    //   this.title = this.body = ''
-    // }
-
-
   }
 }
 </script>

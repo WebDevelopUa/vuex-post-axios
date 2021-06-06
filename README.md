@@ -53,3 +53,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - [Vue Performance Devtool](https://chrome.google.com/webstore/detail/vue-performance-devtool/koljilikekcjfeecjefimopfffhkjbne)
 - [JSON Server JavaScript library](https://zetcode.com/javascript/jsonserver/)
 - [Using Fetch](https://developer.mozilla.org/ru/docs/Web/API/Fetch_API/Using_Fetch)
+- [Axios API](https://axios-http.com/docs/api_intro)

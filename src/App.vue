@@ -1,5 +1,3 @@
-<!-- use dispatch to call fetchPosts actions from store -->
-
 <template>
   <div id="app">
     <PostForm/>
@@ -21,7 +19,7 @@ import {mapGetters, mapActions} from "vuex"
 import PostForm from "./components/PostForm";
 
 // Set posts limit manually (by default: 3 posts)
-let postLimit = 90;
+let postLimit = 30;
 
 export default {
   name: 'VuexStart',

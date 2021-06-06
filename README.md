@@ -1,9 +1,10 @@
-# Vuex start
+# Vuex Post Axios
 
-Basics Vue & Vuex sample
+Add new posts to remote JSON Server using axios - Vue/Vuex App
 
-- [Demo Frontend](https://vuex-start.vercel.app)
+- [Demo Frontend](https://vuex-post-axios.vercel.app)
 - [JSON Server](https://stream-json-server.herokuapp.com)
+- [Localhost:8080](http://localhost:8080/)
 
 ---
 
